@@ -1,0 +1,8 @@
+<component name="libraryTable">
+  <library name="Maven: org.thymeleaf:thymeleaf-testing:Release" type="repository">
+    <properties maven-id="org.thymeleaf:thymeleaf-testing:RELEASE" />
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
